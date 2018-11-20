@@ -1,7 +1,7 @@
 def using_include(array, element)
 array.include?(element)
 end
-#returns true/false if the specific element is contained in the array
+#returns true/false if the element is in array
 def using_sort(array)
 array.sort
 end
